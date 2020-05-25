@@ -1,0 +1,1 @@
+anna , USD, 29.0 ms, the price was :32953.07 the result is 11

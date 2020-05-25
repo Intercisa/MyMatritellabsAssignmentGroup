@@ -1,0 +1,1 @@
+test , HUF, 30.0 ms, the price was :45000.0 the result is 5
